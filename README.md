@@ -1,55 +1,123 @@
-# Hi there, I'm Obeid 👋
+# ⚡ OBEID NOUICER
 
-I’m a **Generative AI Consultant** and full-stack enthusiast passionate about building intelligent applications and automation pipelines.
+> I build AI systems that ship.  
+> Not notebooks. Not tutorials. Systems.
 
----
-
-## 🔭 What I Do
-
-- **AI & Machine Learning**: Building AI solutions, leveraging Python, and working with ML pipelines.  
-- **Frontend Development**: React, creating dynamic and interactive web applications.  
-- **Backend & DevOps**: Docker, CI/CD, and automating deployments for reliable systems.  
-- **Data & Analytics**: Data processing, visualization, and building insightful dashboards.
+AI Engineer • Backend Architect • ML Systems Builder  
+Python • FastAPI • React • Docker • CI/CD
 
 ---
 
-## 💻 Skills
+## 🧠 WHO AM I?
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+I design and deploy intelligent systems.
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+Not “AI experiments.”
+Not half-finished demos.
+Not resume padding.
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=fff)
-![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=git&logoColor=fff)
+I build:
 
----
+- Production-ready AI workflows
+- Backend systems that scale
+- React frontends that serve real operations
+- Dockerized infrastructure that doesn’t collapse in production
 
-## 📂 Projects & Portfolio
+Currently operating inside the banking sector — meaning:
+- I understand constraints.
+- I understand compliance.
+- I understand real-world systems.
 
-- **AI & Automation** – Generative AI tools for data cleaning and intelligent workflows.  
-- **Web Apps** – React-based dashboards, interactive frontends connected with Python backends.  
-- **DevOps Pipelines** – Dockerized applications with CI/CD for smooth deployments.
-
-*(More projects coming soon…)*
+And I engineer accordingly.
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 WHAT I ACTUALLY DO
 
-![Obeid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obeid&show_icons=true&hide_border=true&theme=radical)
+### ⚙️ AI ENGINEERING
+- LLM-driven applications
+- Semantic similarity engines
+- NLP-based ranking systems
+- Intelligent automation pipelines
+- Evaluation-first ML workflows
+
+### 🧩 BACKEND SYSTEMS
+- FastAPI / Flask services
+- Modular architecture
+- Clean service boundaries
+- Low cognitive complexity code
+- Production-oriented design
+
+### 🖥 FRONTEND
+- React-based dashboards
+- Component isolation
+- API-first UI systems
+- Clean state architecture
+
+### 🚀 DEVOPS & DELIVERY
+- Dockerized systems
+- GitHub Actions CI pipelines
+- Reproducible environments
+- Deployment-aware architecture
 
 ---
 
-## 📫 Connect With Me
+## 🧨 FEATURED BUILDS
 
-- [LinkedIn](https://www.linkedin.com/in/obeid/)  
-- [Twitter](https://twitter.com/obeid) *(optional)*  
-- [Portfolio / Blog](#) *(optional, if you have one)*
+### 🧠 AI CV Optimization Engine
+An NLP-powered system that:
+- Parses resumes
+- Normalizes job descriptions
+- Computes semantic similarity
+- Ranks candidate alignment
+
+Built with modular architecture, strict complexity constraints, and production-first design.
 
 ---
 
+### ⚡ AI Automation Toolkit
+Hybrid rule-based + ML pipelines for:
+- Data cleaning
+- Intelligent classification
+- Workflow triggering
+- Operational efficiency
+
+---
+
+### 🖥 Full-Stack Operational Dashboards
+- React frontend
+- Python backend
+- Dockerized infrastructure
+- CI-integrated deployment flow
+
+Not mockups. Functional systems.
+
+---
+
+## 🏗 ENGINEERING RULES I FOLLOW
+
+- One responsibility per component
+- No bloated files
+- No unnecessary abstraction
+- No “clever” code that breaks at scale
+- Systems > syntax
+
+---
+
+## 🎯 WHERE I’M HEADED
+
+- AI Systems Engineering
+- ML Infrastructure
+- Backend-heavy AI roles
+- International, high-performance environments
+
+I’m not interested in being “an AI enthusiast.”
+
+I’m building to operate at production scale.
+
+---
+
+## 📡 CONNECT
+
+- LinkedIn → https://www.linkedin.com/in/obeid/
+- GitHub → https://github.com/obeidallahnouicer
