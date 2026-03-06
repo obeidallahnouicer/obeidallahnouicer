@@ -79,5 +79,5 @@ I design, containerize, and deploy intelligent applications — not just prototy
 
 ### 📫 Connect
 
-- LinkedIn: https://www.linkedin.com/in/obeid/
+- LinkedIn: https://www.linkedin.com/in/obeid-nouicer-866982218?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - GitHub: https://github.com/obeidallahnouicer
